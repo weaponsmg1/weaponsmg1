@@ -1,9 +1,14 @@
 <h1 align="center">I'm weapon_smg1</h1>
 
-- I'm learning C++ and Python
+- I'm learning C++ , Python 
 - I like developing cheats
 
 My main project:<a href = "https://nomistake.hl2mp.net/">NoMistake</a>
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
 <!--
 **weaponsmg1/weaponsmg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
