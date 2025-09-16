@@ -1,5 +1,9 @@
-## Hi there 👋
+<h1 align="center">I'm weapon_smg1</h1>
 
+- I'm learning C++ and Python
+- I like developing cheats
+
+My main project:<a href = "https://nomistake.hl2mp.net/">NoMistake</a>
 <!--
 **weaponsmg1/weaponsmg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
