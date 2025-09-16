@@ -1,9 +1,8 @@
 <h1 align="center">I'm weapon_smg1</h1>
 
-- I'm learning C++ , Python 
-- I like developing cheats
-
-My main project:<a href = "https://nomistake.hl2mp.net/">NoMistake</a>
+- 🔭 Currently working on: NoMistake project
+- 🌱 Learning: C++, Python, Reverse Engineering
+- 🎯 Goal: Create efficient and optimized software
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
