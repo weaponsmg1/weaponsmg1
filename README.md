@@ -1,24 +1,19 @@
-<h1 align="center">I'm weapon_smg1</h1>
+<h1 align="center">weapon_smg1</h1>
 
-- 🔭 Currently working on: NoMistake project
-- 🌱 Learning: C++, Python, Reverse Engineering
-- 🎯 Goal: Create efficient and optimized software
-
+```cpp
+class weapon_smg1 
+{ 
+public: 
+    string languages[5] = { "C++", "Python", "Lua", "HTML", "CSS" }; 
+    string current_project = "NoMistake";
+    string goal = "Build fast and efficient software";
+};
+```
+<!--
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-<!--
-**weaponsmg1/weaponsmg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 -->
+
