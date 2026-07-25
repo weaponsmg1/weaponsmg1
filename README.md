@@ -4,7 +4,7 @@
 class weapon_smg1 
 { 
 public: 
-    string languages[5] = { "C++", "Python", "Lua", "HTML", "CSS" }; 
+    string languages[6] = { "C++", "C#", "Python", "Lua", "HTML", "CSS" }; 
     string current_project = "NoMistake";
     string goal = "Build fast and efficient software";
 };
